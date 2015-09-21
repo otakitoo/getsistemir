@@ -1,0 +1,2 @@
+var citi_code = 888;
+console.log(citi_code);
